@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_nel_reports_nel_reports,nel_reports.nel_reports,model_nel_reports_nel_reports,,1,0,0,0
